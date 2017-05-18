@@ -24,20 +24,20 @@
     </tr>
     
 
-+---------------------+----------------------+------+-----+---------+----------------/
-| Field               | Type                 | Null | Key | Default | Extra          /
-+---------------------+----------------------+------+-----+---------+----------------/
-| index               | int(10) unsigned     | NO   | PRI | NULL    | auto_increment /
-| addr                | smallint(5) unsigned | NO   |     | NULL    |                /
-| energy_active_in    | int(11)              | YES  |     | NULL    |                /
-| energy_reactive_in  | int(11)              | YES  |     | NULL    |                /
-| energy_reactive_out | int(11)              | YES  |     | NULL    |                /
-| period              | int(10)              | NO   |     | -1      |                /
-| oleDT               | double               | NO   |     | NULL    |                /
-| tariff              | smallint(5) unsigned | YES  |     | NULL    |                /
-| id                  | int(11)              | NO   |     | -1      |                /
-| month               | smallint(6)          | NO   |     | -1      |                /
-+---------------------+----------------------+------+-----+---------+----------------/
++---------------------+----------------------+------+-----+---------+----------------;
+| Field               | Type                 | Null | Key | Default | Extra          ;
++---------------------+----------------------+------+-----+---------+----------------;
+| index               | int(10) unsigned     | NO   | PRI | NULL    | auto_increment ;
+| addr                | smallint(5) unsigned | NO   |     | NULL    |                ;
+| energy_active_in    | int(11)              | YES  |     | NULL    |                ;
+| energy_reactive_in  | int(11)              | YES  |     | NULL    |                ;
+| energy_reactive_out | int(11)              | YES  |     | NULL    |                ;
+| period              | int(10)              | NO   |     | -1      |                ;
+| oleDT               | double               | NO   |     | NULL    |                ;
+| tariff              | smallint(5) unsigned | YES  |     | NULL    |                ;
+| id                  | int(11)              | NO   |     | -1      |                ;
+| month               | smallint(6)          | NO   |     | -1      |                ;
++---------------------+----------------------+------+-----+---------+----------------;
 
 Для контроля лимитов - таблица "dumpmeters" вида 
 +-------+----------------------+------+-----+---------+----------------+
