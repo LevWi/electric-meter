@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LibrPrj</name>
+    </assembly>
+    <members>
+        <member name="M:MercuryMeter.Mercury230.CallAdditionalParameters(MercuryMeter.Mercury230.BWIR_param,System.Byte,MercuryMeter.Mercury230.AdditionalParameters_query,MercuryMeter.Mercury230.power)">
+            <summary>
+            Запрос дополнительных параметров мощности, тока, коэффициента мощности
+            </summary>
+            <param name="param">тип перечисления BWIR_param</param>
+            <param name="Num_Of_Phase">Номер фазы 1, 2, 3. Для Мощности и коэффициента мощности 0 - по сумме фаз</param>
+            <param name="query">Номер функции для запроса. 14, 16 , 11 . По умолчанию 14</param>
+            <param name="powerType">The param</param>
+            <returns>Возвращает параметры Сумма, Фаза1, Фаза2, Фаза3. Или Значение для одной фазы</returns>
+            
+        </member>
+        <member name="M:MercuryMeter.Mercury230.OpenChannel(System.Byte,System.Byte[])">
+            <summary>
+            
+            </summary>
+            <param name="level"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

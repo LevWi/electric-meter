@@ -1,0 +1,14 @@
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.dll
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.pdb
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\Modbus.dll
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.dll
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.pdb
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.dll
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.pdb
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\Modbus.dll
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.dll
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.pdb
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.xml
+C:\Users\Leonard\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.csprojResolveAssemblyReference.cache
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\bin\Debug\LibrPrj.xml
+C:\Users\Barmalei\Google Диск\АСУТП\ОРДЕР-КСТОВО\Программы\Protocol\LibrPrj\obj\Debug\LibrPrj.csprojResolveAssemblyReference.cache
