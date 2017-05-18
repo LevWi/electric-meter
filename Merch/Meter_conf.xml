@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Meters>
+  <autostart serverStart="yes" TCPport ="41" defaultCOMport ="COM16" baudRate="9600" dataBits="8" parity="None" stopBits="One" timeout ="170"/>
+  <DataBaseSQL Database="scada_arhive" DataSource="localhost" UserId="root" Password="root" tbl_206 ="meter206" tbl_230 ="meter234"/>
+  <MeterServer ipaddr="192.168.80.251" port="41" />
+
+  <group name="Объект">
+        <group name="ТП пом.002">
+          <meter addr ="1"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="26912781" idgroup="5" zone="Чиллер" comments=""  />
+          <meter addr ="2"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="26912775" idgroup="5" zone="Чиллер"/>
+          <meter addr ="3"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="25506423" idgroup="3" zone="пом.240, 241 переговорная"/>
+          <meter addr ="4"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="25506538" idgroup="1" zone=" ЩО-2.1.1 эл.щит.2 (освещение)"/>
+          <meter addr ="5"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="26084785" idgroup="4" zone ="Прод.Магазин общий ввод 2"/>
+          <meter addr ="6"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="21640396"              zone ="Общий на весь ТЦ  ввод 1" />
+          <meter addr ="7"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="21224776"              zone ="Общий на весь ТЦ  ввод 2"/>
+          <meter addr ="8"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="25447575" idgroup="4" zone ="Прод.Магазин общий ввод 1"/>
+          <meter addr ="9"  type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="28760407" idgroup="2" zone="Оборудование бассейна"/>
+          <meter addr ="10" type="Merc234" password_lvl1="1,1,1,1,1,1" password_lvl2="2,2,2,2,2,2" id="28359510" idgroup="1" zone="ЩО-2.1.1 эл.щит.2 (освещение)"/>
+        </group>
+		
+  </group>
+  <admin_groups>
+	<adgroup idgroup="1" name="" />
+	<adgroup idgroup="2" name="Спорт Клуб"/>
+  <adgroup idgroup="3" name="Кафе" />
+  <adgroup idgroup="4" name="" />
+  <adgroup idgroup="5" name="МОП" />
+  <adgroup idgroup="6" name="Аренда" />
+  <adgroup idgroup="7" name="Дублирующие" />
+  </admin_groups>
+</Meters> 
